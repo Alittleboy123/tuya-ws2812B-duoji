@@ -8,4 +8,6 @@ CBU模块：主要是将涂鸦模块中的CBU模块改成了兼容原子哥的AT
 舵机部分：没用过，所以只能按照网上教程来做；
 彩灯部分：加了一个变阻器上去调整电压
 
-等东西到了再说把
+等东西到了再说吧
+原理图截图：
+![https://github.com/Alittleboy123/tuya-ws2812B-duoji/tree/main/IMG/V1.jpg]
